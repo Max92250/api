@@ -25,7 +25,7 @@
         <input type="url" id="url3" name="url3" required>
         <br>
     
-        <button type="submit">Add Image</button>
+        <button type="submit">Add Img</button>
     </form>
     
 </body>
